@@ -1,0 +1,43 @@
+body{
+    height: 100%;
+    margin: 0;  
+}
+
+
+  
+.bg {
+    /* The image used */
+    background-image: url("Picture2.jpg");
+  
+    /* Full height */
+    height: 100%;
+    
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* The navbar container */
+.topnav {
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgba(0,0,0,.2);
+    
+  }
+  
+  /* Navbar links */
+  .topnav a {
+    display: inline-block;
+    color: #3088a3;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    list-style: none;
+  }
+  
+
+  
